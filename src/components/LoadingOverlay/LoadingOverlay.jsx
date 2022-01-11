@@ -1,3 +1,5 @@
+import "./LoadingOverlay.css";
+
 const LoadingOverlay = () => {
     return (
         <div className="w-full h-full fixed block top-0 left-0 bg-white opacity-75 z-50">
