@@ -44,7 +44,6 @@ const RatingInformation = (props) => {
                     invalid={invalidFields.address.line_1}
                 />
                 <Input
-                    required
                     className="mb-4"
                     id="line_2"
                     name="line_2"
